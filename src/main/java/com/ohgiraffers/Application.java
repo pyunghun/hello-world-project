@@ -9,5 +9,9 @@ public class Application {
         System.out.println("hell??? world");
 
         System.out.println("hi world");
+        
+        String str = "안녕하세요";
+
+        System.out.println("str = " + str);
     }
 }
