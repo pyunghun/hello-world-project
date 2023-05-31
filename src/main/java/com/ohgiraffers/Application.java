@@ -7,5 +7,7 @@ public class Application {
         System.out.println("hello!! world");
 
         System.out.println("hell??? world");
+
+        System.out.println("hi world");
     }
 }
