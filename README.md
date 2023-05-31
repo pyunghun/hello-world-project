@@ -6,3 +6,4 @@ public static void main(String[] args) {
     System.out.println("hello world!!");
 }
 ```
+## Merge 연습하기
